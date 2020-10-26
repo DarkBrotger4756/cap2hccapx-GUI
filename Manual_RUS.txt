@@ -23,3 +23,5 @@ Made By Operator4756
 
 После того как вы нажмёте кнопку сконвертировать в папке Converted hccapx
 будет ваш сконвертиованный в .hccapx формат файл
+
+cap2hccapx вы можете скачать из этого репозитория https://github.com/hashcat/hashcat-utils/releases
