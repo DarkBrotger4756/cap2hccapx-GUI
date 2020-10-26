@@ -18,3 +18,5 @@ ESSID - Input in this box Name of cracking Wi-Fi
 
 After you click Convert button you get file .cap converted
 to file .hccapx in Converted hccapx directory
+
+You can download cap2hccapx form this repository https://github.com/hashcat/hashcat-utils/releases
